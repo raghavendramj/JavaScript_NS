@@ -1,0 +1,24 @@
+ JavaScript Functions and Loops ( Revision + Doubt Session )
+ 
+sir, what the difference between argument and parameter and itenar -> Answered
+difference betn argument and parameter ->  Answered
+what is called by value and called by reference function?
+	-> Call by value and call by reference
+	
+arr2 = arr1; => Results in 
+		arr1 -> 
+					["Bangalore", "Mysore", "Mumbai", "Chennai", "Gujurat"];
+		arr2 ->
+	
+so should it not be the case with us during the classes/revisionand mock, you told about closue, we haven't been taught closures yet
+what is immediately invoked function?
+Explain Call back functions 
+
+// var addCallback = add;
+// console.log("My Result : ", add(10, 20));
+// console.log("My Result : ", addCallback(10, 20));
+sir sorting like insertion sort, quick sort
+functional expression and functions difference
+pls explain remove duplicate elements ...from array ..
+
+
